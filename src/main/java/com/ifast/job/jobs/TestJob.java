@@ -8,7 +8,6 @@ import org.quartz.JobExecutionException;
 import org.springframework.stereotype.Component;
 
 import com.ifast.common.utils.DateUtils;
-
 /**
  * <pre>
  * </pre>
